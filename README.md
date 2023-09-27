@@ -2,7 +2,7 @@
 # User Management Dashboard
 
 Description:
-You are tasked with creating a User Management Dashboard using React.js and Chakra UI.
+User Management Dashboard using React.js and Chakra UI.
 The dashboard should allow administrators to view, create, edit, and delete user accounts. It
 should also include a search feature to find specific users based on their attributes.
 Requirements:
